@@ -1,0 +1,15 @@
+C:\Users\INS 5570\source\repos\DND5-AddressBookApplication\DND5-AddressBookApplication\bin\Debug\net6.0\DND5-AddressBookApplication.exe
+C:\Users\INS 5570\source\repos\DND5-AddressBookApplication\DND5-AddressBookApplication\bin\Debug\net6.0\DND5-AddressBookApplication.deps.json
+C:\Users\INS 5570\source\repos\DND5-AddressBookApplication\DND5-AddressBookApplication\bin\Debug\net6.0\DND5-AddressBookApplication.runtimeconfig.json
+C:\Users\INS 5570\source\repos\DND5-AddressBookApplication\DND5-AddressBookApplication\bin\Debug\net6.0\DND5-AddressBookApplication.dll
+C:\Users\INS 5570\source\repos\DND5-AddressBookApplication\DND5-AddressBookApplication\bin\Debug\net6.0\DND5-AddressBookApplication.pdb
+C:\Users\INS 5570\source\repos\DND5-AddressBookApplication\DND5-AddressBookApplication\obj\Debug\net6.0\DND5-AddressBookApplication.csproj.AssemblyReference.cache
+C:\Users\INS 5570\source\repos\DND5-AddressBookApplication\DND5-AddressBookApplication\obj\Debug\net6.0\DND5-AddressBookApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INS 5570\source\repos\DND5-AddressBookApplication\DND5-AddressBookApplication\obj\Debug\net6.0\DND5-AddressBookApplication.AssemblyInfoInputs.cache
+C:\Users\INS 5570\source\repos\DND5-AddressBookApplication\DND5-AddressBookApplication\obj\Debug\net6.0\DND5-AddressBookApplication.AssemblyInfo.cs
+C:\Users\INS 5570\source\repos\DND5-AddressBookApplication\DND5-AddressBookApplication\obj\Debug\net6.0\DND5-AddressBookApplication.csproj.CoreCompileInputs.cache
+C:\Users\INS 5570\source\repos\DND5-AddressBookApplication\DND5-AddressBookApplication\obj\Debug\net6.0\DND5-AddressBookApplication.dll
+C:\Users\INS 5570\source\repos\DND5-AddressBookApplication\DND5-AddressBookApplication\obj\Debug\net6.0\refint\DND5-AddressBookApplication.dll
+C:\Users\INS 5570\source\repos\DND5-AddressBookApplication\DND5-AddressBookApplication\obj\Debug\net6.0\DND5-AddressBookApplication.pdb
+C:\Users\INS 5570\source\repos\DND5-AddressBookApplication\DND5-AddressBookApplication\obj\Debug\net6.0\DND5-AddressBookApplication.genruntimeconfig.cache
+C:\Users\INS 5570\source\repos\DND5-AddressBookApplication\DND5-AddressBookApplication\obj\Debug\net6.0\ref\DND5-AddressBookApplication.dll
