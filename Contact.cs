@@ -8,12 +8,12 @@ namespace DND5_AddressBookApplication
 {
     internal class Contact
     {
-        string name;
-        string email;
-        string phone;
-        string state;
-        string city;
-        string zipcode;
+        public string name;
+        public string email;
+        public string phone;
+        public string state;
+        public string city;
+        public string zipcode;
 
         public Contact(string name, string email, string phone, string state, string city, string zipcode)
         {

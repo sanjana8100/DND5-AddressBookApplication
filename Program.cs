@@ -5,28 +5,47 @@
         static void Main(string[] args)
         {
             AddressBook addressBook = new AddressBook();
-            Console.WriteLine("welcome to AddressBook : ");
+            Console.WriteLine("Welcome to AddressBook : ");
             while (true)
             {
-                Console.WriteLine("Choose your operation: ");
-                Console.WriteLine("1) Add contact");
-                Console.WriteLine("2) Display Contact");
-                Console.WriteLine("9) Exit");
+                Console.WriteLine();
+                Console.WriteLine("******************MENU:******************");
+                Console.WriteLine("=> To Add Contact: PRESS 1");
+                Console.WriteLine("=> To Edit an Existing Contact: PRESS 2");
+                Console.WriteLine("=> To Delete a Contact: PRESS 3");
+                Console.WriteLine("=> To Display a specific Contact: PRESS 4");
+                Console.WriteLine("=> To Display all Contacts in the Address Book: PRESS 5");
+                Console.WriteLine("=> To EXIT: PRESS 6");
 
                 int choice = Convert.ToInt32(Console.ReadLine());
                 switch (choice)
                 {
                     case 1:
                         {
-                            addressBook.addContact();
+                            addressBook.AddContact();
                             break;
                         }
                     case 2:
                         {
+                            addressBook.EditContact();
+                            break;
+                        }
+                    case 3:
+                        {
+                            addressBook.DeleteContact();
+                            break;
+                        }
+                    case 4:
+                        {
+                            addressBook.DisplayContact();
+                            break;
+                        }
+                    case 5:
+                        {
                             addressBook.Display();
                             break;
                         }
-                    case 9:
+                    case 6:
                         {
                             Environment.Exit(0);
                             break;
